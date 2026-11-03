@@ -1,6 +1,4 @@
-<div align="center">
-  <!-- Animação de digitação em roxo -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=System.out.printf(%22Hello+World!+Welcome+to+gutooczm's+profile+%F0%9F%9A%80%22)%3B" alt="Typing Java" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=System.out.printf(%22Hello+World!+Welcome+to+gutooczm's+profile+%F0%9F%9A%80%22)%3B" alt="Typing Java" />
 
   👨‍💻 Augusto Cezar Megliato
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Apaixonado por Tecnologia
@@ -24,17 +22,26 @@ Olá! O meu nome é Augusto Cezar Megliato. Sou estudante de Análise e Desenvol
 💻 Linguagens de Programação & Web
 🛠️ Ferramentas, Ambiente & Ecossistema
 📐 Conceitos & Tópicos em Estudo
+
 Plaintext
+
 [x] Programação Orientada a Objetos (Encapsulamento, Herança, Polimorfismo, Interfaces)
+
 [x] Tratamento de Exceções Personalizadas & Validação de Dados
+
 [x] Estruturas de Dados Básicas & Algoritmos de Ordenação/Busca
+
 [x] Desenvolvimento Web Front-End (HTML5 Semântico, CSS Flexbox/Grid, JS Moderno)
+
 [/] Integração de Sistemas & Consumo de APIs RESTful
+
 [/] Modelação de Bases de Dados Relacionais (SQL / PostgreSQL / MySQL)
+
 [ ] Padrões de Projeto (Design Patterns: Factory, Singleton, Strategy)
+
 💻 Projetos em Destaque
-1. ☕ Gestor de Cardápio e Pedidos
-Descrição: Sistema desenvolvido em Java para automatizar o fluxo de pedidos de um estabelecimento, aplicando conceitos avançados de POO para categorização de itens e cálculo dinâmico de contas.
+1. FinancialHealthy
+Descrição: Sistema desenvolvido em Google AI Studio e Google Antigravity para testar meus conhecimentos com criação de Prompt's, verificação e manutbilidade de código.
 
 Tópicos Chave: Encapsulamento, Coleções (Lists/Maps), Abstração.
 
@@ -50,21 +57,12 @@ Tecnologias: Java, POO.
 3. 🌐 Web Interactive Physics (Simulador Gráfico)
 Descrição: Interface web interativa inspirada em motores gráficos de física, permitindo a manipulação de partículas e elementos flutuantes no ecrã em tempo real.
 
-Tópicos Chave: Manipulação do DOM, Animações em Canvas, Motor de Física 2D.
-
-Tecnologias: HTML5, CSS3, JavaScript, Matter.js.
-
-4. 🏥 Sistema de Gestão Hospitalar & Pacientes
-Descrição: Protótipo de software backend para controlo de ocupação de leitos, triagem e dados clínicos de pacientes.
-
-Tópicos Chave: Arquitetura em camadas, Organização de classes, Coleções de dados.
-
 Tecnologias: Java.
 
 ⚙️ Configuração do Meu Ambiente (Setup)
 Bash
 # Meu SO & Ferramentas
-OS: Ubuntu Linux 64-bit
+Sistema Operacional: Windows 11
 Editor: Visual Studio Code
 Terminal: Bash / Zsh
 Controlo de Versão: Git & GitHub CLI
@@ -79,8 +77,6 @@ Controlo de Versão: Git & GitHub CLI
 
 📊 Estatísticas do GitHub
 🤝 Conecte-se Comigo
-📬 LinkedIn: Acesse o meu perfil profissional
+📬 LinkedIn: https://www.linkedin.com/in/augusto-cezar-megliato-227759291/
 
-📧 E-mail Directo: seu-email@gmail.com
-
-💬 Aberto a parcerias, projetos de código aberto e trocas de conhecimento!
+📧 E-mail: augusto.megliato@gmail.com
