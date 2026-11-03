@@ -8,7 +8,7 @@ Tecnologias • Conceitos & Estudos • Projetos • Estatísticas
 
 "A melhor forma de prever o futuro é construí-lo através do código."
 
-Olá! O meu nome é Augusto Cezar Megliato. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em criar soluções eficientes, estruturadas e
+Olá! O meu nome é Augusto Cezar Megliato. Sou estudante de Análise e Desenvolvimento de Sistemas, focado em criar soluções eficientes, estruturadas e
 escaláveis. O meu objetivo é dominar a engenharia de software desde a lógica de baixo nível até à arquitetura de aplicações web modernas.
 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
@@ -16,7 +16,7 @@ Foco de Atuação: Programação Orientada a Objetos (POO), Arquitetura de Softw
 
 Ambiente de Trabalho: Desenvolvo diariamente no ecossistema Windows, utilizando o VS Code e o terminal Bash como principais ferramentas.
 
-Filosofia de Código: Código limpo (Clean Code), Utilização de IA, forte modularização, tratamento rigoroso de exceções e foco na experiência do utilizador.
+Filosofia de Código: Código limpo (Clean Code), Utilização de IA, low-code, forte modularização, tratamento rigoroso de exceções e foco na experiência do utilizador.
 
 Tecnologias & Ferramentas
 
@@ -61,7 +61,7 @@ Organização & Metodologia: Foco em boas práticas de estruturação de ficheir
 
 📊 | Estatísticas do GitHub
 
-🤝 | Conecte-se Comig
+🤝 | Conecte-se Comigo:
 
 📬|  LinkedIn: https://www.linkedin.com/in/augusto-cezar-megliato-227759291/
   
